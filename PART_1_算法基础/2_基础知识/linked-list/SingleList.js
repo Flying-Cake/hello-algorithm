@@ -19,7 +19,6 @@ class SingleList {
     size
     head
     currentNode
-
     /**
      * @name 单链表
      * @param size 单链表的长度
